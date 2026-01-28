@@ -1,6 +1,7 @@
 
 import React from 'react';
 
+
 const Footer: React.FC = () => {
   return (
     <footer id="contact" className="py-24 px-6 md:px-12 border-t border-white/10 bg-[#050505]">
