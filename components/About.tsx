@@ -25,7 +25,7 @@ const About: React.FC = () => {
           <div className="gold-portrait-frame w-full aspect-square max-w-[320px] mx-auto lg:mx-0">
             <div className="w-full h-full rounded-full overflow-hidden border-[4px] border-[#0a0a0a] bg-zinc-900">
               <img 
-                src="https://media.licdn.com/dms/image/v2/C4D03AQE8K7e7K9G1yA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1657805216335?e=1746662400&v=beta&t=P3hY8_R8x6O1T9E8R8X6O1T9E8R8X6O1T9E8R8X6O1" 
+                src="https://deephivemind.com/dhm/img/founder/Harsh_Vardhan.png" 
                 alt="Harsh Vardhan - Apollo Tyres" 
                 className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-1000"
               />
