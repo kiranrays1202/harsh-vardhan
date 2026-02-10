@@ -1,8 +1,0 @@
-{
-  "name": "Harsh Vardhan - AI Evangelist Portfolio",
-  "description": "A high-end personal portfolio for Harsh Vardhan, AI Evangelist at Apollo Tyres, featuring an interactive AI persona powered by Gemini.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
-}
